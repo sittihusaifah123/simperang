@@ -12,7 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('konten/dashboard/index');
+    return view('welcome');
 });
- 
- Route::get('tabel',"Tabel@index");
