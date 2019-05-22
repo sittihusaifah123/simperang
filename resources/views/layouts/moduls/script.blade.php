@@ -35,7 +35,7 @@
 
 <!-- Custom Js -->
 <script src="{{ asset('assets/js/admin.js')}}"></script>
-<script src="{{ asset('assets/js/pages/index.js')}}"></script>
+{{-- <script src="{{ asset('assets/js/pages/index.js')}}"></script> --}}
 
 <!-- Demo Js -->
 <script src="{{ asset('assets/js/demo.js')}}"></script>
